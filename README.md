@@ -34,7 +34,7 @@ sudo rm -r ~/.config/nvim
 - Clone the repository
 
 ```bash
-git clone https://github.com/azsao/NvArch.git
+git clone https://github.com/mitzsou/NvArch.git
 ```
 
 - Move the necessaary files
