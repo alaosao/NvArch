@@ -12,10 +12,9 @@
 
 Our minimalistic Neovim distribution offers a streamlined editing experience with essential plugins and configurations pre-installed, ensuring a lightweight and efficient workflow. Designed for simplicity and productivity, our Neovim distro provides a clean and uncluttered interface, allowing users to focus on their code without distractions. With carefully curated settings and a minimalist approach to customization, our Neovim distribution prioritizes performance and speed, ideal for developers seeking a lean and agile text editing environment.
 
-![NvArch](https://github.com/mitzsou/NvArch/assets/145884925/ab36f6bc-3e40-4e05-84a9-099b2538e3e9)
-
 <details>
     <summary><strong>Screenshots</strong></summary>
+![NvArch](https://github.com/mitzsou/NvArch/assets/145884925/ab36f6bc-3e40-4e05-84a9-099b2538e3e9)
 
 
 
